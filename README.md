@@ -73,14 +73,4 @@ print(f"Utilities balance: ${Utilities.get_balance()}")
 print(create_spend_chart([Groceries, Entertainment, Utilities]))
 ```
 
-### Contributing
-
-Contributions to the Budget App project are welcome! If you have any ideas, improvements, or bug fixes, please submit a pull request. Make sure to follow the project's code style and guidelines.
-
-### License
-
-The Budget App project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code for personal or commercial purposes.
-
-### Acknowledgements
-
 Special thanks to FreeCodeCamp for providing the Scientific Programming with Python course and inspiring this project.
